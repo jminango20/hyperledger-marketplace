@@ -36,3 +36,5 @@ PeerOrgs:
       Count: 1
       SANS:
         - localhost
+    Users:
+      Count: 1
